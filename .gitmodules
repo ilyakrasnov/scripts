@@ -1,0 +1,3 @@
+[submodule "dailog"]
+	path = dailog
+	url = https://github.com/ilyakrasnov/dailog.git
