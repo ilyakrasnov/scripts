@@ -4,7 +4,7 @@
 # Creates a template of a new script with author and description
 ######################################################################################
 
-SCRIPT=${1}.sh
+SCRIPT=${1}
 AUTHOR="Ilya Krasnov"
 TIMESTAMP=`date +%Y/%m/%d`
 
